@@ -1,4 +1,3 @@
 # README
-|C trials
-|-All codes have turkish variable names and words
-|--All free to use...
+-C trials
+-Codes do have Turkish variable names and words
