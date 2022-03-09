@@ -1,3 +1,4 @@
-# README
--C trials
--Codes do have Turkish variable names and words
+## README
+
+exercise codes in C language
+variable names and comments are mostly turkish
